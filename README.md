@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://twitter.com/hardik_khanesa">Twitter</a> •
-  <a href="https://www.linkedin.com/in/hardik-khanesa">Linkedin</a>
+  <a href="https://twitter.com/hardik_khanesa"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/hardik-khanesa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 I'm a __software developer__ and __data scientist__ based in __ahmedabad__. I love exploring computer science field and all kinds of problem solving things online and I'm ready for discussions and making new projects, write blogs on medium etc.
@@ -28,5 +28,7 @@ I'm a __software developer__ and __data scientist__ based in __ahmedabad__. I lo
 * 🔖 Discover my [Curriculum Vitae](https://www.slideshare.net/Hardikkhanesa/hardik-khanesa-resume20052020/Hardikkhanesa/hardik-khanesa-resume20052020)<br/>
 * ✍🏻 I wrote dev articles on [medium.com](https://medium.com/@hardikkhanesa) <br/>
 * 📫 Contact me [@hardik_khanesa](https://twitter.com/hardik_khanesa)
+* 🏆 Hackerrank [@hardik_khanesa](https://www.hackerrank.com/hardik_khanesa)
+
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hardikkhanesa.Hardikkhanesa)
