@@ -33,5 +33,4 @@ I'm a __software developer__ and __data scientist__ based in __ahmedabad__. I lo
 
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hardikkhanesa.Hardikkhanesa)-->
 <!-- I have used https://hits.dwyl.com/ for hits-->
-[![HitCount](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa/Hardikkhanesa.svg)](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa/Hardikkhanesa)
 [![HitCount](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa.svg)](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa)
