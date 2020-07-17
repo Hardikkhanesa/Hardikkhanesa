@@ -29,8 +29,9 @@ I'm a __software developer__ and __data scientist__ based in __ahmedabad__. I lo
 * ✍🏻 I wrote dev articles on [medium.com](https://medium.com/@hardikkhanesa) <br/>
 * 📫 Contact me [@hardik_khanesa](https://twitter.com/hardik_khanesa)
 * 🏆 Hackerrank [@hardik_khanesa](https://www.hackerrank.com/hardik_khanesa)
-
+* 😍 DevFolio [Website](https://hardikkhanesa.github.io/#/)
 
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hardikkhanesa.Hardikkhanesa)-->
 <!-- I have used https://hits.dwyl.com/ for hits-->
 [![HitCount](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa/Hardikkhanesa.svg)](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa/Hardikkhanesa)
+[![HitCount](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa.svg)](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa)
