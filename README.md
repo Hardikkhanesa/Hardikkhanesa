@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/hardik-khanesa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-I'm a __software engineer and __data scientist__ based in __ahmedabad__. I love exploring computer science field and all kinds of problem solving things online and I'm ready for discussions and making new projects, write blogs on medium etc.
+I'm a __software engineer__ and __data scientist__ based in __ahmedabad__. I love exploring computer science field and all kinds of problem solving things online and I'm ready for discussions and making new projects, write blogs on medium etc.
 
 <!--* 💼 Currently working at [Seald](https://www.seald.io) <br/>-->
 * 🔖 Discover my [Curriculum Vitae](https://www.slideshare.net/Hardikkhanesa/hardik-khanesa-resume20052020/Hardikkhanesa/hardik-khanesa-resume20052020)<br/>
