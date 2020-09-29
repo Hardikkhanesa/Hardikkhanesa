@@ -11,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@1.2.8
         with:
           feed_list: "http://hardikkhanesa.me/blog/"
           max_post_count: 10
+
