@@ -61,9 +61,8 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 
 <div style="padding-left: 50px">
 
-<!-- Medium:START -->
-- [Awesome Resources For Computer Science Students](http://hardikkhanesa.me/blog/posts/Student%20Resources)
-<!-- Medium:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://hardikkhanesa.me/blog/)
 
