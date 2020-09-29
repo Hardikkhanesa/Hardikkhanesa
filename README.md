@@ -1,4 +1,4 @@
-<h2 align='center'><img src="https://github.com/Hardikkhanesa/Hardikkhanesa/blob/master/assets/wave.gif" width="40px"> I'm Hardik Khanesa Full Stack Developer 🐍</h2><hr>
+<h2 align='center'><img src="https://github.com/Hardikkhanesa/Hardikkhanesa/blob/master/assets/wave.gif" width="40px"> I'm Hardik Khanesa Full Stack Developer 🐍</h2>
 
 <div align='center'>
 
