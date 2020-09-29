@@ -3,6 +3,7 @@
 <div align='center'>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-khanesa/)
+<a href="https://twitter.com/hardik_khanesa"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hardikkhanesa)
 <!-- [![HackerNoon](https://img.shields.io/badge/Hacker%20Noon-%23239120.svg?&style=for-the-badge&logo=hackernoon&logoColor=white)](https://hackernoon.com/u/) -->
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCbLReSK1d5NrivuEoYZrGbg/featured?view_as=subscriber)
@@ -18,6 +19,15 @@
 
 <div style='padding-left: 50px'>
 
+
+I'm a __software engineer__ and __data scientist__ based in india. I love exploring computer science field and all kinds of problem solving things online and I'm ready for discussions and making new projects, write blogs on medium etc.
+
+<!--* 💼 Currently working at [Seald](https://www.seald.io) <br/>-->
+✔️ 🔖 Discover my [Curriculum Vitae](https://www.slideshare.net/Hardikkhanesa/hardik-khanesa-resume20052020/Hardikkhanesa/hardik-khanesa-resume20052020)
+✔️  ✍🏻 I wrote dev articles on [medium.com](https://medium.com/@hardikkhanesa)
+✔️ 📫 Contact me [@hardik_khanesa](https://twitter.com/hardik_khanesa)
+✔️ 🏆 Hackerrank [@hardik_khanesa](https://www.hackerrank.com/hardik_khanesa)
+✔️  😍 DevFolio [Website](https://hardikkhanesa.github.io/#/)
 ✔️ 📚 Technical <a href="http://hardikkhanesa.me/blog"> Blogger </a> 👨‍💻 👨‍🎓   
 ✔️ 🤖 Voracious Reader with interest in Artificial Intelligence ,Machine LEaning nd Datascience.   
 ✔️ 🔭 Currently working on Node.js,React.js.
@@ -77,3 +87,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikkhanesa&langs_count=8)](https://github.com/Hardikkhanesa/github-readme-stats)
 
 </div>
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hardikkhanesa.Hardikkhanesa)-->
+<!-- I have used https://hits.dwyl.com/ for hits-->
+<!-- [![HitCount](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa.svg)](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa) -->
+<!-- Visit Count
+
+![Visitor Count](https://profile-counter.glitch.me/Hardikkhanesa/count.svg) -->
