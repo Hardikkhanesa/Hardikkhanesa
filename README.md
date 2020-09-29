@@ -62,6 +62,7 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 <div style="padding-left: 50px">
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Github Repositories For Learning Computer Science](https://dev.to/hardik_khanesa/awesome-github-repositories-for-learning-computer-science-jl3)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://hardikkhanesa.me/blog/)
