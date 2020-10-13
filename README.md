@@ -78,7 +78,7 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 
 </div>
 
-<div align='center'>
+<div align='right'>
 
 ### 😎 Top Languages 
 
@@ -86,6 +86,18 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikkhanesa&langs_count=8)](https://github.com/Hardikkhanesa/github-readme-stats)
 
 </div>
+<div>
+<a href="https://sourcerer.io/hardikkhanesa"><img src="https://avatars0.githubusercontent.com/u/26074662?v=4" height="50px" width="50px" alt=""/></a>
+</div>
+<div>
+<br/>
+<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/JavaScript-63%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/Python-48%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/Java-12%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/CSS-70%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/HTML-122%20commits-orange.svg" alt=""></a>
+</div>
+
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hardikkhanesa.Hardikkhanesa)-->
 <!-- I have used https://hits.dwyl.com/ for hits-->
 <!-- [![HitCount](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa.svg)](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa) -->
