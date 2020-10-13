@@ -69,7 +69,7 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 
 </div>
 <div>
-<div align='left'>
+<div align='center'>
 
 ### 😎 Github Stats 
 
@@ -78,7 +78,7 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 
 </div>
 
-<div align='right'>
+<div align='center'>
 
 ### 😎 Top Languages 
 
