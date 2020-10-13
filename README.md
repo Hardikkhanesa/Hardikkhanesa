@@ -68,8 +68,8 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 ➡️ [more blog posts...](http://hardikkhanesa.me/blog/)
 
 </div>
-
-<div align='center'>
+<div>
+<div align='left'>
 
 ### 😎 Github Stats 
 
@@ -84,6 +84,8 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikkhanesa&langs_count=8)](https://github.com/Hardikkhanesa/github-readme-stats)
+
+</div>
 
 </div>
 <div>
