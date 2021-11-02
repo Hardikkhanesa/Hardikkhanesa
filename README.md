@@ -65,41 +65,56 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 - [Awesome Github Repositories For Learning Computer Science](https://dev.to/hardik_khanesa/awesome-github-repositories-for-learning-computer-science-jl3)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](http://hardikkhanesa.me/blog/)
+➡️ [more blog posts...](http://hardikkhanesa.github.io/blog/)
 
 </div>
 <div>
-<div align='center'>
+  <div class='row'>
+    <div class='col-sm-12>
+                
+          <div class='row'>
+              <div class='col-sm-4'>
+                    <div>
 
-### 😎 Github Stats 
+                    ### 😎 Github Stats 
 
 
-![Hardik khanesa's github stats](https://github-readme-stats.vercel.app/api?username=Hardikkhanesa&count_private=true&show_icons=true&theme=graywhite&line_height=27)
+                    ![Hardik khanesa's github stats](https://github-readme-stats.vercel.app/api?username=Hardikkhanesa&count_private=true&show_icons=true&theme=graywhite&line_height=27)
 
+                    </div>
+              
+              </div>
+               <div class='col-sm-4'>
+                <div>
+
+                ### 😎 Top Languages 
+
+
+                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikkhanesa&langs_count=8)](https://github.com/Hardikkhanesa/github-readme-stats)
+
+                </div>
+                 </div>
+
+                </div>
+                <div>
+                <a href="https://sourcerer.io/hardikkhanesa"><img src="https://avatars0.githubusercontent.com/u/26074662?v=4" height="50px" width="50px" alt=""/></a>
+                </div>
+                <div>
+                <br/>
+                <a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/JavaScript-63%20commits-orange.svg" alt=""></a>
+                <a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/Python-48%20commits-orange.svg" alt=""></a>
+                <a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/Java-12%20commits-orange.svg" alt=""></a>
+                <a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/CSS-70%20commits-orange.svg" alt=""></a>
+                <a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/HTML-122%20commits-orange.svg" alt=""></a>
+                </div>
+
+
+                <div align='right'>
+                <a href="https://app.daily.dev/hk"><img src="https://api.daily.dev/devcards/51ab1021d3a44cae95e1f9f51b030766.png?r=hsh" width="400" alt="Hardik Khanesa's Dev Card"/></a>
+                  </div>
+        </div>
+    </div>
 </div>
-
-<div align='center'>
-
-### 😎 Top Languages 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikkhanesa&langs_count=8)](https://github.com/Hardikkhanesa/github-readme-stats)
-
-</div>
-
-</div>
-<div>
-<a href="https://sourcerer.io/hardikkhanesa"><img src="https://avatars0.githubusercontent.com/u/26074662?v=4" height="50px" width="50px" alt=""/></a>
-</div>
-<div>
-<br/>
-<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/JavaScript-63%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/Python-48%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/Java-12%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/CSS-70%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/hardikkhanesa"><img src="https://img.shields.io/badge/HTML-122%20commits-orange.svg" alt=""></a>
-</div>
-
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hardikkhanesa.Hardikkhanesa)-->
 <!-- I have used https://hits.dwyl.com/ for hits-->
 <!-- [![HitCount](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa.svg)](http://hits.dwyl.com/Hardikkhanesa/Hardikkhanesa) -->
