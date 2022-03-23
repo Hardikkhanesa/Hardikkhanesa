@@ -28,7 +28,7 @@ I'm a __software engineer__ and __data scientist__ based in india. I love explor
 ✔️ 📫 Contact me [@hardik_khanesa](https://twitter.com/hardik_khanesa)<br/>
 ✔️ 🏆 Hackerrank [@hardik_khanesa](https://www.hackerrank.com/hardik_khanesa)<br/>
 ✔️  😍 DevFolio [Website](https://hardikkhanesa.github.io/#/)<br/>
-✔️ 📚 Technical <a href="http://hardikkhanesa.me/blog"> Blogger </a> 👨‍💻 👨‍🎓   <br/>
+✔️ 📚 Technical <a href="http://hardikkhanesa.github.io/blog"> Blogger </a> 👨‍💻 👨‍🎓   <br/>
 ✔️ 🤖 Voracious Reader with interest in Artificial Intelligence ,Machine LEaning nd Datascience.   <br/>
 ✔️ 🔭 Currently working on Node.js,React.js.<br/>
 ✔️ 📫 How to reach me:  hkhanesa@gmail.com   <br/>
